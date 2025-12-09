@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "Python Básico",
+    "paginas": 250
+  },
+  {
+    "titulo": "Pandas Avançado",
+    "paginas": 350
+  },
+  {
+    "titulo": "Machine Learning",
+    "paginas": 500
+  }
+]

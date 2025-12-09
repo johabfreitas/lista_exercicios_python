@@ -1,0 +1,13 @@
+ID_Venda,Data_Venda,Produto,Categoria,Preco_Unitario,Metodo_Pagamento
+V1001,2025-10-01,Curso Python Pro,Curso Online,120.00,Cartao de Credito
+V1002,2025-10-01,Ebook Design UI,Ebook,45.50,Pix
+V1003,2025-10-02,Licenca Software X,Software,250.00,Boleto
+V1004,2025-10-02,Curso Python Pro,Curso Online,120.00,Pix
+V1005,2025-10-03,Template Apresentacao,Template,30.00,Cartao de Credito
+V1006,2025-10-03,Ebook Design UI,Ebook,45.50,Cartao de Credito
+V1007,2025-10-04,Curso Java Essentials,Curso Online,100.00,Pix
+V1008,2025-10-04,Licenca Software X,Software,250.00,Cartao de Credito
+V1009,2025-10-05,Ebook Design UI,Ebook,45.50,Boleto
+V1010,2025-10-05,Curso Python Pro,Curso Online,120.00,Pix
+V1011,2025-10-06,Template Apresentacao,Template,30.00,Pix
+V1012,2025-10-06,Curso Java Essentials,Curso Online,100.00,Boleto

@@ -1,0 +1,16 @@
+ID_Funcionario,Nome,Departamento,Cargo,Salario_Mensal,Anos_de_Servico,Regiao
+101,Ana Silva,Vendas,Vendedor Sr.,7500.00,5,Sudeste
+102,Bruno Costa,TI,Desenvolvedor Pleno,8200.00,3,Sudeste
+103,Carla Dias,RH,Analista RH,5500.00,2,Nordeste
+104,Daniel Moreira,Marketing,Especialista SEO,6800.00,4,Sul
+105,Elisa Fernandes,Vendas,Vendedor Jr.,4200.00,1,Sudeste
+106,Felipe Antunes,TI,Desenvolvedor Sr.,12000.00,8,Sudeste
+107,Gabriela Lins,Marketing,Gerente Mkt,11500.00,7,Nordeste
+108,Heitor Barros,TI,Analista de Suporte,5100.00,2,Sul
+109,Iris Guedes,RH,Gerente RH,9500.00,6,Sudeste
+110,Joao Mendes,Vendas,Vendedor Pleno,6000.00,3,Nordeste
+111,Laura Pires,TI,Desenvolvedor Jr.,4500.00,1,Sudeste
+112,Marcos Nunes,Vendas,Gerente Vendas,14000.00,10,Sul
+113,Natalia Vogel,Marketing,Analista Mkt,5200.00,2,Sudeste
+114,Otavio Reis,TI,Estagiário,2500.00,1,Sudeste
+115,Paula Zamat,RH,Assistente RH,3800.00,1,Nordeste

@@ -1,0 +1,8 @@
+SKU,Produto,Categoria,Estoque_Inicial,Unidades_Vendidas,Unidades_Devolvidas,Preco_Custo
+SKU001,Camiseta Branca,Vestuario,200,120,10,15.00
+SKU002,Caneca Personalizada,Casa,150,90,5,25.00
+SKU003,Notebook Pro,Eletronicos,50,30,2,3500.00
+SKU004,Teclado Mecanico,Eletronicos,80,45,0,180.00
+SKU005,Calca Jeans,Vestuario,120,70,3,70.00
+SKU006,Fone Bluetooth,Eletronicos,100,65,8,90.00
+SKU007,Luminaria de Mesa,Casa,70,25,1,45.00

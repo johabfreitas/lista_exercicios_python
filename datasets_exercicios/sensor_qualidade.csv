@@ -1,0 +1,8 @@
+ID_Sensor,Localizacao,Status_Operacional,Leitura_H1,Leitura_H2,Leitura_H3,Leitura_H4,Leitura_H5,Leitura_H6
+S-01,Centro,Ativo,12.5,13.0,15.2,18.0,20.1,22.0
+S-02,Zona Norte,Ativo,8.0,8.5,9.0,8.7,9.1,9.5
+S-03,Zona Sul,Inativo,0.0,0.0,0.0,0.0,0.0,0.0
+S-04,Centro,Ativo,14.0,15.5,16.0,18.2,21.5,23.1
+S-05,Zona Norte,Ativo,9.2,9.0,9.5,10.0,10.5,10.1
+S-06,Zona Sul,Ativo,10.1,10.5,11.0,11.2,12.0,12.5
+S-07,Centro,Ativo,16.0,18.0,20.0,25.0,30.0,28.5

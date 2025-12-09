@@ -1,0 +1,9 @@
+ID_Cliente,Nome,Sobrenome,Email,Total_Pedidos,Total_Gasto,Data_Cadastro
+C001,Mariana,Alves,mari.alves@email.com,5,850.50,2024-01-10
+C002,Ricardo,Neves,r.neves@email.com,2,120.00,2024-02-15
+C003,Beatriz,Santos,bia_santos@email.com,10,2100.00,2024-03-01
+C004,Leonardo,Gomes,leo.gomes@email.com,1,75.80,2024-05-20
+C005,Patricia,Costa,patricia.c@email.com,8,1300.00,2024-06-11
+C006,Thiago,Lima,thiago_lima@email.com,4,420.00,2024-07-30
+C007,Invalid,Row,system@error.com,0,0,SYSTEM_META
+C008,Footer,Data,metadata@system.com,0,0,SYSTEM_META

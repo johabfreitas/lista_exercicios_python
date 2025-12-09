@@ -1,0 +1,13 @@
+ID_Imovel,Bairro,Tipo_Imovel,Area_m2,Quartos,Preco_Venda
+A001,Centro,Apartamento,80,2,450000.00
+A002,Praia,Apartamento,120,3,950000.00
+C003,Jardins,Casa,250,4,1800000.00
+A004,Centro,Apartamento,65,1,380000.00
+C005,Centro,Casa,150,3,700000.00
+A006,Praia,Apartamento,95,2,720000.00
+A007,Jardins,Apartamento,200,3,1500000.00
+C008,Praia,Casa,300,4,2100000.00
+A009,Centro,Apartamento,75,2,420000.00
+C010,Jardins,Casa,280,4,2000000.00
+A011,Praia,Apartamento,110,3,890000.00
+A012,Jardins,Apartamento,220,4,1650000.00
